@@ -4,4 +4,4 @@ This is a computing project as part of the Year 2 Advanced Practical Physics cou
 
 ![Fig](https://user-images.githubusercontent.com/97603154/190442683-acfcff65-3ecd-4e98-8785-8900c61f5109.png)
 :--:
-*Space*
+*Intersection of a ray with a spherical surface (source: Imperial College Physics Y2 Computing)*
